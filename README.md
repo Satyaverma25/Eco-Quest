@@ -2,7 +2,7 @@
 
 > **Learn. Act. Impact.** — A full-stack MERN platform where users master environmental sustainability through quizzes, challenges, XP, badges, and live leaderboards.
 
-🔗 **Live Demo:** https//ecoquestt.vercel.app
+🔗 **Live Demo:** https://ecoquestt.vercel.app
 ---
 
 ## ✨ Features
